@@ -5,20 +5,12 @@
 
 	var projectsArray = [
 		{
-			"id": "projectTykOperator",
-			"url": "https://github.com/TykTechnologies/tyk-operator"
+			"id": "tsis",
+			"url": "https://mgmt-preproduction.permits.np.cp1.agriculture.gov.au"
 		},
 		{
-			"id": "projectCloudixia",
-			"url": "https://ajtima.com"
-		},
-		{
-			"id": "projectServ",
-			"url": "https://www.getserv.io"
-		},
-		{
-			"id": "projectSedkodes",
-			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
+			"id": "water",
+			"url": "https://www.dcceew.gov.au/parks-heritage/heritage/underwater-heritage/auchd"
 		}
 	]
 
